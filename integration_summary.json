@@ -1,0 +1,50 @@
+{
+  "analysis_date": "2025-07-21",
+  "galaxies_loaded": 3,
+  "total_data_points": 128,
+  "galaxy_details": {
+    "NGC2403": {
+      "n_points": 73,
+      "radial_range": [
+        0.16,
+        20.87
+      ],
+      "velocity_range": [
+        24.5,
+        136.0
+      ],
+      "distance": 3.16,
+      "M_disk": 42383720930.23255,
+      "R_disk": 10.0
+    },
+    "DDO154": {
+      "n_points": 12,
+      "radial_range": [
+        0.49,
+        5.92
+      ],
+      "velocity_range": [
+        13.8,
+        48.2
+      ],
+      "distance": 4.04,
+      "M_disk": 3567570348.8372087,
+      "R_disk": 7.41
+    },
+    "NGC3198": {
+      "n_points": 43,
+      "radial_range": [
+        0.32,
+        44.08
+      ],
+      "velocity_range": [
+        24.4,
+        157.0
+      ],
+      "distance": 13.8,
+      "M_disk": 55153488372.09302,
+      "R_disk": 10.0
+    }
+  },
+  "status": "Real data successfully integrated with STVG pipeline"
+}
